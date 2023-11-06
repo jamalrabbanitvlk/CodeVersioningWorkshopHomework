@@ -11,4 +11,4 @@ git checkout -b experiment-1
 - Delete branch
 $ git branch -d experiment-1
 
-Ubah supaya ada conflict
+Tidak Ubah supaya ada conflict
