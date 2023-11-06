@@ -7,3 +7,6 @@ Danni said branching is
 
 - Combined command
 git checkout -b experiment-1
+
+- Delete branch
+$ git branch -d experiment-1
