@@ -1,0 +1,14 @@
+Danni said branching is 
+
+- How to branch? 
+1. Create branch : $git branch experiment-1
+2. Switch to branch : git checkout experiment-1
+3. List all branch : git branch
+
+- Combined command
+git checkout -b experiment-1
+
+- Delete branch
+$ git branch -d experiment-1
+
+Ubah supaya ada conflict
